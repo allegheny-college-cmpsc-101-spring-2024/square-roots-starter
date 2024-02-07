@@ -1,9 +1,18 @@
 # Square Root Computation
 
-TODO: Make sure that you delete all of the TODO markers inside of this file. You
-should also ensure that you revise or delete all of the prompts inside of this
-file so that, when you are finished with your technical writing you have a
-professional report that is suitable for publication on your web site.
+TODO: Provide responses for the TODOs.
+
+Make sure that all aspects of the `writing/reflection.md` correctly use all
+of the features of the Markdown standard. This means that, when you preview your
+Markdown it should always be formatted in a suitable fashion. For VS Code previews,
+right click on the tab that shows the file name (e.g. `reflection.md`), then select
+Open Preview.
+
+Please make sure that you completely delete the TODO markers
+from every line of the `writing/reflection.md` file.
+
+Ensure that your writing is original and based on your own understanding
+of the concepts.
 
 ## Add Your Name Here
 
@@ -54,7 +63,7 @@ TODO: Write at least one paragraph to explain the requested source code
 
 ## Professional Assessment
 
-### What was the main difference you felt implementing this CLI vs. the CLI for Primality?
+### What was the main difference you felt implementing this CLI vs. the CLI for Integer Squaring?
 
 TODO: Provide a response that answers this question in your own words.
 

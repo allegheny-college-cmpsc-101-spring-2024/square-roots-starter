@@ -1,6 +1,4 @@
-![Proactive Programmers](.github/images/Square-Proactive-Programmers-Logo.svg)
-
-# Square Roots
+# Square Roots 
 
 [![build](../../actions/workflows/build.yml/badge.svg)](../../actions/)
 ![Platforms: Linux, MacOS, Windows](https://img.shields.io/badge/Platform-Linux%20%7C%20MacOS%20%7C%20Windows-blue.svg)
@@ -11,22 +9,18 @@
 
 ## Introduction
 
-- Due date: Check the [Proactive Programmers Discord
-server](https://discord.gg/kjah8MFYbR).
-- This assignment will be submitted on GitHub following
-the expectations in the syllabus on
-[Assignment Submission](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#assignment-submission).
+- Due date: Check Discord or the [Course Materials Schedule](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md)
+- This assignment is pass/fail. 100%(0%) is earned for a gatorgrade score of 100%(<100%) as
+described in the syllabus section for
+[Assignment Evaluation](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials?tab=readme-ov-file#assignment-evaluation)
+- Submit this assignment on GitHub following the expectations in the syllabus on
+[Assignment Submission](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials#assignment-submission).
 - To begin, read this `README` and the Proactive Programmers' project
-description for
-[Square Roots](https://proactiveprogrammers.com/data-abstraction/programming-projects/square-root/)
-- Modifications to the gatorgrade.yml file are not permitted without explicit instruction.
-- This assignment is a Programming Project and will be evaluated as
-described in the
-[Assessment Strategies](https://proactiveprogrammers.com/proactive-learning/assessment-strategy/#programming-projects).
-- You can check the
-[square-roots-starter repository](https://github.com/allegheny-college-cmpsc-101-fall-2023/square-roots-starter)
-for any updates to this project's documentation or
-source code.
+[instructions](https://proactiveprogrammers.com/data-abstraction/programming-projects/square-root/)
+- This project has been adapted from Proactive Programmers' material, thus discrepancies are possible.
+- Post to the #data-structures Discord channel for questions and clarifications.
+- For reference, check the
+[starter repo](https://github.com/allegheny-college-cmpsc-101-spring-2024/square-roots-starter)
 
 ## Learning Objectives
 
@@ -34,38 +28,35 @@ This assignment is about making a Command Line Interface to numerically
 compute the approximate square root of a number.
 The learning objectives of this assignment are to:
 
-1. Use Git and GitHub to manage source code file changes
+1. Implementing CLI
 2. Implement exhaustive and binary search methods to compute square roots
 3. Write clearly about the programming concepts in this assignment.
 
 ## Seeking Assistance
 
 Please review the course expectations on the syllabus about
-[Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#seeking-assistance).
-Students are reminded to uphold the Honor Code. Cloning the assignment
-repository is a commitment to the latter.
+[Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials#seeking-assistance).
+Students are reminded
+to uphold the Honor Code. Cloning the assignment repository is a
+commitment to the latter.
 
-For this assignment, you may use class materials, textbooks, notes,
-and the internet. However, when asked to write "in your own words",
-you must use _your own_ words.
+For this assignment, you may use class materials, textbooks, notes, and the
+internet. Ensure that your writing is original and based on your own understanding
+of the concepts. Examples of plagiarism include:
 
-Post questions to the
-[Proactive Programmers Discord server](https://discord.gg/kjah8MFYbR)
-or create an issue in your individual copy of the repository
-describing your question 24 hours before the deadline.
-Be sure to @-tag emgraber in the issue.
+- verbatim copying without citation
+- copying with single word modifications
+- paraphrasing sections or notes from a source without citation
+
+To claim that work is your own, it is essential to craft the logic and the
+writing together without copying or using the logical structure of another
+source. The honor code holds everyone to this standard.
 
 ## Project Overview
 
 After cloning this repository to your computer, please take the following
 steps:
 
-- Make sure that you have already installed and know how to use all of the
-  programming tools that are mentioned in the description of the [Proactive
-  Skills](https://proactiveprogrammers.com/proactive-skills/technical-skills/introduction-technical-skills/).
-- Follow the instructions on the Proactive Programmers web site for this project
-  to take all of the needed steps and to complete all of the required
-  deliverables.
 - Use the `cd` command to change into the directory for this repository.
 - Specifically, you can change into the program directory by typing `cd squareroot`.
 - Install the dependencies for the project by typing `poetry install`.
